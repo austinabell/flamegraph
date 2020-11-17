@@ -227,7 +227,7 @@ dependencies = [
 [[package]]
 name = "inferno"
 version = "0.10.1"
-source = "git+https://github.com/austinabell/inferno?rev=d960d573dd78ce28c6c8461dafa04b243fd143d9#d960d573dd78ce28c6c8461dafa04b243fd143d9"
+source = "git+https://github.com/austinabell/inferno?rev=16505f1e7ea5be73f4a17876cdf0ea2e97d4dbca#16505f1e7ea5be73f4a17876cdf0ea2e97d4dbca"
 dependencies = [
  "ahash 0.4.6",
  "crossbeam-channel",
